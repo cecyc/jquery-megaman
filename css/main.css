@@ -1,9 +1,6 @@
-* {
-  outline: red 1px solid;
-}
-
 body {
-  background-color: black;
+  background: url('../images/tile.jpg');
+  background-repeat: repeat;
 }
 
 .main {
