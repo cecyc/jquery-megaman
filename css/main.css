@@ -3,9 +3,17 @@ body {
   background-repeat: repeat;
 }
 
+p {
+  background: black;
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 62px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 .main {
   background-color: white;
-  margin-top: 110px;
   padding-left: 100px;
   min-width: 1200px;
   height: 500px;
@@ -26,7 +34,7 @@ body {
 
 .mega-ready, .mega-throwing {
   display: none;
-} 
+}
 
 .mega-ready {
   background-image: url('../images/megaman-running.gif');
@@ -46,7 +54,7 @@ body {
 
 .haduken {
   background-image: url('../images/hadouken.gif');
-  width: 156px; 
+  width: 156px;
   height: 90px;
   display: none;
   position: relative;
