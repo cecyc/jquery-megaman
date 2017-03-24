@@ -1,4 +1,4 @@
-##jQuery Mega Man
+## jQuery Mega Man
 
 This is a simple exercise using jQuery to animate the video game character, Mega Man.
 
